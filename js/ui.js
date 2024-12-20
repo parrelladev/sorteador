@@ -39,3 +39,7 @@ function displayResults(sortedNames) {
         });
     }, 5000);
 }
+
+function goToHome() {
+    window.location.href = 'https://parrelladev.github.io/sorteador'; // Substitua '/' pelo caminho da página principal, se necessário.
+}

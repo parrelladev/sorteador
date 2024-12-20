@@ -44,8 +44,38 @@ h2.text-style {
     background-color: #3498DB; /* Fundo azul para o botão */
     border: none;
     margin-top: 5px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.btn-second {
+    border-radius: 20px; /* Bordas arredondadas para inputs e botão */
+    background-color: #34495e;
+    color: white;
+    border: none;
+    margin-top: 20%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.btn-second:hover {
+    background-color: #218838;
+    color: white;
+}
+
+.btn-third {
+    background-color: #34495e; /* Fundo azul para o botão */
+    color: white;
+    border: none;
+    margin-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+
+.btn-third:hover {
+    background-color: #218838;
+    color: white;
 }
 
 #result {

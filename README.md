@@ -26,7 +26,7 @@ Para garantir que o sistema funcione corretamente, a planilha `.xlsx` deve estar
 
 ### Exemplo de Formato de Planilha
 
-| carimbo de data/hora | nome completo | diretoria   | setor       | telefone      |
+| Carimbo de data/hora | Nome completo | Diretoria   | Setor       | Telefone      |
 |----------------------|---------------|-------------|-------------|---------------|
 | 2024-08-01 08:00:00  | João Silva    | Marketing   | Vendas      | (11) 98765-4321|
 | 2024-08-01 09:00:00  | Maria Oliveira | Recursos Humanos | Administrativo | (11) 98765-4322|
